@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hábitos Alimenticios</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            color: #555;
+        }
+        p {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hábitos Alimenticios Saludables</h1>
+        <p>La alimentación juega un papel fundamental en nuestra salud y bienestar. Adoptar hábitos alimenticios saludables puede ayudar a prevenir enfermedades, mantener un peso adecuado y mejorar la calidad de vida en general. A continuación, se presentan algunos consejos y prácticas recomendadas para mantener una dieta equilibrada y saludable.</p>
+        
+        <h2>1. Consumir una variedad de alimentos</h2>
+        <p>Es importante incluir en la dieta diaria una amplia gama de alimentos de todos los grupos alimenticios. Esto asegura la obtención de todos los nutrientes necesarios para el buen funcionamiento del cuerpo.</p>
+        
+        <h2>2. Comer frutas y verduras</h2>
+        <p>Las frutas y verduras son fuentes ricas en vitaminas, minerales y fibra. Se recomienda consumir al menos cinco porciones de frutas y verduras al día.</p>
+        
+        <h2>3. Reducir el consumo de azúcares y grasas</h2>
+        <p>El exceso de azúcar y grasa en la dieta puede llevar a problemas de salud como la obesidad y enfermedades cardiovasculares. Es preferible optar por grasas saludables como las que se encuentran en el aceite de oliva y los frutos secos, y limitar el consumo de alimentos procesados y azucarados.</p>
+        
+        <h2>4. Mantener una adecuada hidratación</h2>
+        <p>El agua es esencial para la vida y debe ser la principal fuente de hidratación. Se recomienda beber al menos 8 vasos de agua al día y limitar el consumo de bebidas azucaradas y alcohólicas.</p>
+        
+        <h2>5. Practicar el control de las porciones</h2>
+        <p>Controlar el tamaño de las porciones ayuda a evitar el exceso de calorías y facilita el mantenimiento de un peso saludable. Es útil prestar atención a las señales de hambre y saciedad del cuerpo.</p>
+        
+        <h2>6. Planificar las comidas</h2>
+        <p>Planificar y preparar las comidas con anticipación puede ayudar a mantener una dieta equilibrada y evitar la tentación de recurrir a opciones poco saludables.</p>
+        
+        <h2>7. Evitar el consumo de alimentos ultraprocesados</h2>
+        <p>Los alimentos ultraprocesados suelen contener aditivos, conservantes y altos niveles de azúcar, sal y grasas no saludables. Es mejor optar por alimentos frescos y mínimamente procesados.</p>
+        
+        <h2>8. Hacer ejercicio regularmente</h2>
+        <p>La combinación de una dieta saludable con la práctica regular de ejercicio físico contribuye a mantener un peso adecuado y mejorar la salud general.</p>
+        
+        <h2>Conclusión</h2>
+        <p>Adoptar hábitos alimenticios saludables es una inversión en nuestra salud y bienestar a largo plazo. Aunque puede ser un desafío cambiar los hábitos alimenticios, los beneficios para la salud física y mental hacen que valga la pena el esfuerzo.</p>
+    </div>
+</body>
+</html>
